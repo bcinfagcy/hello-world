@@ -10,3 +10,8 @@ A new branch can be added at any point, and will contain all components of the m
  available for testing the new feature against. (will need to try it out to truely understand.)
  Feature branches can now be polished and MERGED back into the MAIN branch.
 With the right amount of documentation, this just might work.
+
+hi,
+but wait. please consider my 2 cents, ok?
+  regards,
+ dont_ignore_mee
